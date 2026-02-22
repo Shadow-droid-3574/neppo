@@ -1,5 +1,0 @@
-{
-  "name": "Instant Chat",
-  "description": "A basic real-time chat application with automatic anonymous user generation.",
-  "requestFramePermissions": []
-}
