@@ -1,5 +1,5 @@
 {
-  "name": "Telegram Bot AI Dashboard",
-  "description": "An advanced AI-powered dashboard to manage and enhance your Telegram bot's capabilities, featuring content generation, image creation, and automated replies powered by Google Gemini.",
+  "name": "Instant Chat",
+  "description": "A basic real-time chat application with automatic anonymous user generation.",
   "requestFramePermissions": []
 }
